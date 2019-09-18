@@ -20,6 +20,7 @@
         {
             "name": "Aaron Carr",
             "email": "git@seymourlabs.co.uk"
+        }
     ],
     "autoload": {
         "psr-4": { "Omnipay\\Invoice\\" : "src/" }
